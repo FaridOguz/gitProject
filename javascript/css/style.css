@@ -1,0 +1,48 @@
+/* .bir{
+	width:800px;
+	height:400px;
+} */
+.main{
+	color:red;
+}
+.body{
+	height:auto;
+}
+.card{
+	color:white;
+	width:800px;
+	/* height:400px; */
+}
+.card-img-top{
+	width:800px;
+	height:400px;
+}
+.card-block{
+	background:red;
+	 /* width:800px; */
+	height:35px;
+	margin-bottom:10px;
+} 
+ 
+.btn{
+	background:red;
+	color:white;
+	margin:5px;
+}
+.but{
+	margin:10px;
+	margin-top:20px;
+	width:150px;
+	background:red;
+	color:white;
+
+}
+#inp{
+	width:800px;
+	height:40px;
+	margin:5px;
+}
+#inp1{
+	width:800px;
+	height:40px;
+}
