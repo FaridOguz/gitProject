@@ -1,0 +1,188 @@
+.imgWrapper{
+	position:relative;
+	width:100%;
+	height:inherit;
+	background: url(../img/bg.jpg);
+}
+.blur{
+	position:absolute;
+	height:100%;
+	width:100%;
+	background:rgba(34, 34, 34, 0.6);
+}
+.a{
+	height:500px;
+}
+/* .test{
+	position:relative;
+} */
+.logo h3{
+	position:relative;
+	top:25px;
+	left:120px;
+	color:white;
+	margin:0;
+	padding:0;
+	color:#FFFFFF;
+	z-index:1;
+}
+.blackWhite{
+	color:#FFFFFF;
+	position:relative;
+	top:140px;
+	z-index:1;
+}
+.blackWhite i{
+	font-size:10px;
+	vertical-align: top;
+	color:white;
+}
+
+#readMore{
+	border:2px solid white;
+	position:relative;
+	left:472px;
+	top:200px;
+	width:200px;
+	height:35px;
+	background:rgba(34, 34, 34, 0.4);
+	color:white;
+}
+#lorem{
+	height:200px;
+}
+.col-md-12.c{
+	height:100px;
+}
+.b{
+	background:#F3F3F3;
+	height:800px;
+}
+
+.sekil1{
+   background:url('../img/img1.jpg');
+   background-size:cover;
+   /* background-position:bottom center;
+   -webkit-filter: brightness(50%);
+   filter: brightness(-30%); */
+   position:absolute
+   /* float:right; */
+   /* bottom:20px; */
+   width:454px;
+   height:175px;
+}
+.sekil2{
+	background:url('../img/img3.jpg');
+	 background-size:cover;
+   background-position:bottom center;
+	/* -webkit-filter: brightness(50%);
+    filter: brightness(-30%);
+	position:relative;
+	bottom:20px; */
+	width:220px;
+	height:175px;
+}
+.clerafix{
+	height:20px;
+}
+.sekil3{
+	background:url('../img/img4.jpg');
+	 background-size:cover;
+   background-position:bottom center;
+	-webkit-filter: brightness(50%);
+    filter: brightness(-30%);
+	/* position:relative;
+	float:right;
+	left:128px;
+	top:0px; */
+	width:220px;
+	height:175px;
+}
+.sekil4{
+	background:url('../img/img2.jpg');
+	 background-size:cover;
+   background-position:center;
+   /* -webkit-filter: brightness(50%);
+   filter: brightness(-30%);
+   position:relative;
+   right:18px;
+   float:right; */
+   width:454px;
+   height:175px;
+   
+}
+
+/* 
+.y{
+	height:40px;
+} */
+.f{
+	height:250px;
+
+}
+button{
+	width:80px;
+position:relative;
+right:10px;
+height:35px;
+	background:white;
+}
+#txt{
+	height:35px;
+	color:white;
+}
+.g{
+	height:150px;
+	background:white;
+}
+.col-md-12g{
+	height:150px;
+	
+}
+
+.mail{
+	background:white;
+	position:relative;
+	top:40px;
+	left:172px;
+	width:490px;
+	height:120px;
+
+}
+.news{
+	position:relative;
+	top:40px;
+	left:30px;
+}
+.son{
+	position:relative;
+	top:50px;
+}
+
+#birinci{
+	width:270px;
+	height:35px;
+}
+#ikinci{
+	height:35px;
+	position:relative;
+	right:5px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: black;
+    padding: 14px 16px;
+    text-decoration: none;
+}
