@@ -1,0 +1,108 @@
+.container-fluid{
+  padding: 0px;
+}.e-header-wrap{
+	background-color: white;
+	height:48px;
+	border-bottom: 0.5px solid lightgrey;
+
+	.first{
+		font-size: 25px;
+	}
+
+	.Icon:hover{
+		color: #0084b4;
+	}
+	.second{
+		font-size: 23px;
+	}
+  ul{
+    margin: 0px;
+    padding: 0;
+  }
+	ul li{
+
+		display: inline-block;
+		color:#66757f;
+		padding: 5px;
+		transition: .3s;
+		}
+		ul li:hover {
+		border-bottom:4px solid #0084b4;
+					}
+}
+
+
+.e-bird,.e-egg {
+	width:50px;
+	height: 50px;
+	padding: 10px;
+				}
+.e-search{
+	border-radius:21px;
+	padding:3px;
+	margin-top:8px;
+	border:1px solid #e1e8ed;
+	background:#f5f8fa;
+	width: 100%;
+		}
+.e-egg{
+	border-radius:15px;
+  img{
+    width: 32px;
+    height: 32px;
+    margin-top: -2px;
+    margin-left: -25px;
+  }
+	  }
+.tweetbtn {
+	display:inline-block;
+	width: 100px  ;
+	height: 37px;
+	background-color: #0084B4;
+	border-radius: 5px;
+	border: 2px solid #0084B4;
+	box-shadow: none;
+	color: white;
+  margin-top: 5px;
+
+}
+.tweetbtn:hover
+{
+	color: white;
+	text-decoration: none;
+}
+
+.e-search{
+	background-color:#f5f8fa;
+}
+.e-search:hover{
+	background-color:white;
+}
+.home-e {
+	float:left;
+}
+.home-e:hover {
+	color:#2c7bb8;
+}
+.ring-e {
+	float:left;
+}
+.ring-e:hover {
+	color:#2c7bb8;
+}
+.envelope-e {
+	float:left;
+}
+.envelope-e:hover {
+	color:#2c7bb8;
+}
+.text-e {
+	font-size:16px;
+	padding:5px;
+}
+.e-text-right-email {
+	color:#8899a6;
+}
+.header_right_side{
+
+}
